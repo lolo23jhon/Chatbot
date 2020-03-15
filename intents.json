@@ -1,0 +1,21 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "How are you?"],
+            "responses": ["Hello.", "Good to see you.", "Hi there."],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "See you later", "Goodbye", "Have a good day"],
+            "responses": ["Goodbye!", "See you again soon,", "See you later."],
+            "context_set": ""
+        },
+        {
+            "tag": "who_is_it",
+            "patterns": ["Who are you?", "What is your name?", "Who am i talking to?"],
+            "responses": ["My name is Peggy, I'm a robot assistant for Pegasus. What can I help you with?"],
+            "context_set": []
+        }
+    ]
+}
