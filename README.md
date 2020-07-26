@@ -1,4 +1,4 @@
 # Chatbot
-Artificial Intelligence chatting bot for replying text messages.
+Artificial Intelligence chatbot using Tensorflow.
 Can be trained to anser a variety of queries based on a their 
 intent classification.
